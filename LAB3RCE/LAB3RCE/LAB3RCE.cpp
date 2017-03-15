@@ -1,7 +1,6 @@
 // LAB3RCE.cpp : Defines the entry point for the console application.
-//
-// ConsoleApplication2.cpp : Defines the entry point for the console application.
-//
+// Key Generator for Lab3 does passwords 1-4 Pass:5 is an adapter address for ethernet but could not figure out how to get it inot key gen
+
 
 #include "stdafx.h"
 #include "windows.h"

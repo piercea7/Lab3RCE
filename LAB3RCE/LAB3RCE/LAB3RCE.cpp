@@ -47,7 +47,7 @@ void Pass3() {
 	while (i < str1len) {
 		charAt = (int)str3[i];
 		xorval = charAt ^ i;
-		printf("%c", (char)charAt);
+		printf("%c", (char)xorval);
 		i++;
 	}
 	printf("\n");
